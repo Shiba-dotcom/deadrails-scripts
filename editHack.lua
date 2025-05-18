@@ -1,11 +1,5 @@
 -- This file was protected using Luraph Obfuscator v14.4.1 [https://lura.ph/]
 return ({
-    D = function(x, x)
-        x[0XB] = nil;
-        (x)[12] = (nil);
-        x[0XD] = (nil);
-        (x)[0XE] = (nil);
-    end,
     m = function(x, Z, R, O)
         R = {};
         (O)[1] = (nil);
